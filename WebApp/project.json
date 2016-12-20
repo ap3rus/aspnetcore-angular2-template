@@ -75,6 +75,6 @@
   },
 
   "tooling": {
-    "defaultNamespace": "Superjaja"
+    "defaultNamespace": "WebApp"
   }
 }
