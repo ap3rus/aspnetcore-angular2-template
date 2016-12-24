@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26014.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Superjaja", "Superjaja\Superjaja.xproj", "{5951F79E-4DCC-4CD0-804C-8F638C0BC4BD}"
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebApp", "WebApp\WebApp.xproj", "{45E678EF-1DA7-478D-B24C-6DEA702F5374}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp\WebApp.csproj", "{45E678EF-1DA7-478D-B24C-6DEA702F5374}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5951F79E-4DCC-4CD0-804C-8F638C0BC4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5951F79E-4DCC-4CD0-804C-8F638C0BC4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5951F79E-4DCC-4CD0-804C-8F638C0BC4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5951F79E-4DCC-4CD0-804C-8F638C0BC4BD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{45E678EF-1DA7-478D-B24C-6DEA702F5374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{45E678EF-1DA7-478D-B24C-6DEA702F5374}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45E678EF-1DA7-478D-B24C-6DEA702F5374}.Release|Any CPU.ActiveCfg = Release|Any CPU
